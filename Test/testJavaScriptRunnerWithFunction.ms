@@ -1,4 +1,4 @@
-/*! © 2015 imaoki | MIT License | https://github.com/imaoki */
+/*! © 2019 imaoki | MIT License | https://github.com/imaoki */
 global activated
 fn activated context: = (
   assert (context == undefined)
