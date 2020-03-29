@@ -1,4 +1,4 @@
-/*! © 2019 imaoki | MIT License | https://github.com/imaoki */
+/*! © 2020 imaoki | MIT License | https://github.com/imaoki */
 struct TestStruct (
   public CurrentDir,
   public CurrentFile,

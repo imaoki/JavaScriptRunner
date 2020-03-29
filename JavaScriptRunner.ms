@@ -1,4 +1,4 @@
-/*! © 2019 imaoki | MIT License | https://github.com/imaoki */
+/*! © 2020 imaoki | MIT License | https://github.com/imaoki */
 /**
 JavaScriptを実行する。
 @remarks
